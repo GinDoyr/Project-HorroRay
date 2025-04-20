@@ -1,8 +1,3 @@
-# Project-HorroRay
-There is no prize to perfection... Have I said this already?
-
-![загруженное](https://github.com/user-attachments/assets/041e768b-1c6f-47cf-9f17-e78fc143ad81) <sub>i had to do this but if i should delete or move this below just tell me and i'll do it</sub>
-
 # "Сюжет" игры
 Персонаж попал в бездну и пытается найти из неё выход. Его единственным способом видеть является сканер, использующий принцип технологии лидар. При зажатии определенной кнопки сканер отмечает найденные препятствия (стены) точками и имеет два режима:
  - широкий скан с обычной скоростью 
@@ -31,3 +26,7 @@ here be описание как всё работает, если это не з
 - N - отрисовка BVH (если она включена)
 - R - отрисовка всех лучей
 - L - счётчики FPS и кол-ва пересечений лучей
+
+...only an end to pursuit.
+
+![загруженное](https://github.com/user-attachments/assets/041e768b-1c6f-47cf-9f17-e78fc143ad81)
